@@ -64,7 +64,7 @@ No Prerequisites
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/faysalsabbir/js_movie_search_app/
+   git clone https://github.com/faysalsabbir/js_movie_search_app.git
    ```
 2. Run  index.html file 
 
